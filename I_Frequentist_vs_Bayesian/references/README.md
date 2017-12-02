@@ -1,10 +1,12 @@
-# Reference list
-================
+# References
+
+This is a (far from complete) summary of useful references in Bayesian and Frequentist statistics, and the historical roles each other have played in the construction of our notion of probability. 
+
 
 ## Statistics in astronomy and cosmology - books
 
 - [Feigelson and Babu, 2012](http://www.cambridge.org/fr/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications?format=HB&isbn=9780521767279) - *Modern statistical methods for astronomy with R examples*  
-- [Andreon, S. and Weaver, B., 2014](http://www.springer.com/fr/book/9783319152868) - *Bayesian methods for the physical sciences - learning from examples in Astronomy and Physics*
+- [Andreon, S. and Weaver, B., 2014](http://www.springer.com/fr/book/9783319152868) - *Bayesian methods for the physical sciences - learning from examples in Astronomy and Physics*  
 - [Hilbe, de Souza and Ishida, 2017](http://www.bayesianmethodsforastrophysicaldata.com) - *Bayesian models for astrophysical data - using R, JAGS, Python and Stan*  
 
 
@@ -12,6 +14,7 @@
 
 - [Verde, L., 2009](https://arxiv.org/abs/0911.3105) - *Statistical methods in Cosmology*  
 - [Heavens, A., 2011](http://astrostatistics.psu.edu/su11scma5/HeavensLecturesSCMAVfull.pdf) - *Bayesian Statistics in Cosmology*  
+- [Loredo, T., 2012](https://arxiv.org/pdf/1208.3036.pdf) - *Bayesian astrostatistics: a backward look to the future*  
 - [Trotta, R., 2017](https://arxiv.org/pdf/1701.01467.pdf) - *Bayesian methods in Cosmology*  
 
 ## Advanced theoretical background
