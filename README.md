@@ -1,6 +1,8 @@
 # Statistics In Cosmology
+### developed by Emille E. O. Ishida in December/2017
 
-Material for 11th TRR33 Winter school
+Material for 11th TRR33 Winter school  
+Passo del Tornale, Italy - 10-16 December 2017
 
 ## Day 1 - Introduction
 
