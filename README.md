@@ -15,7 +15,7 @@ Passo del Tornale, Italy - 10-16 December 2017
 > Maximum Likelihood estimators  
 > Monte Carlo Markov Chain methods  
 
-[Example](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference)
+[Examples](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference)
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/references)
 
 ## Day 3 - Model Selection
