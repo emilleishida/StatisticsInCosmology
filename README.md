@@ -4,8 +4,9 @@ Material for 11th TRR33 Winter school
 
 ## Day 1 - Introduction
 
-    Discussions on Frequentists and Bayesian statistics
-    [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/I_Frequentist_vs_Bayesian/references)
+> Discussions on Frequentists and Bayesian statistics
+    
+[References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/I_Frequentist_vs_Bayesian/references)
 
 ## Day 2 - Parameter Inference
 
