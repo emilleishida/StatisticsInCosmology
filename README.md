@@ -8,7 +8,7 @@ developed by [Emille E. O. Ishida](www.emilleishida.com)
 
 ## Day 1 - Introduction
 
-*"Begin at the beginning," the King said, very gravely, "and go on till you come to the end: then stop".*
+*"Begin at the beginning," the King said, very gravely, "and go on till you come to the end: then stop".*  
 Alice in Wonderland,  Lewis Carroll (1865)
 
 > Discussions on Frequentists and Bayesian statistics  
