@@ -1,8 +1,10 @@
-# Statistics In Cosmology
-### developed by Emille E. O. Ishida in December/2017
+# Statistics In Cosmology  
+developed by [Emille E. O. Ishida](www.emilleishida.com)
 
 [11th TRR33 Winter school](http://darkuniverse.uni-hd.de/view/Main/WinterSchool17)  
 *Passo del Tornale, Italy - 10-16 December 2017*
+
+
 
 ## Day 1 - Introduction
 
