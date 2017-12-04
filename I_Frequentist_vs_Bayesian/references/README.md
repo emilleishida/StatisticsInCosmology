@@ -24,11 +24,13 @@ This is a (far from complete) summary of useful references in Bayesian and Frequ
 
 ## Historical background
 
-- [McGrayne, S. B.](https://yalebooks.yale.edu/book/9780300188226/theory-would-not-die) - *The theory that would not die*  
+- [Bayes, T., 1763](http://www.stat.ucla.edu/history/essay.pdf) - *An Essay towards solving a Problem in the Doctrine of Chances*  
+- [McGrayne, S. B., 2011](https://yalebooks.yale.edu/book/9780300188226/theory-would-not-die) - *The theory that would not die*  
 
 ## Blog Posts
 
 - [VanderPlas, J., 2014](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) - *Frequentism and Bayesianism: A Practical Introduction*  
+- [Kurt, W., 2015](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego) - *Bayes' Theorem with Lego*  
 
 ## Video Lectures
 
