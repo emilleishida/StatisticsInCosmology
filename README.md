@@ -20,16 +20,16 @@ Passo del Tornale, Italy - 10-16 December 2017
 
 ## Day 3 - Model Selection
 
-> Information criterias
-> Cross-validation
-> Bayesian evidence
+> Information criterias  
+> Cross-validation  
+> Bayesian evidence  
  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/III_Model_Selection/references)
 
 ## Day 4 - Approximate Bayesian Computation
 
-> Importance Sampling
-> Likelihood-free parameter inference
+> Importance Sampling  
+> Likelihood-free parameter inference  
  
 [Examples](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC)
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC/references)
