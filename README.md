@@ -52,4 +52,5 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 
 #### Bayesian and Frequentist statistics
      
-> Q1: Large part of the reluctance of many researchers in using 
+> Q1: One of the main arguments against Bayesian analysis is that the theory does not provide a recipe on how to calculate priors. As a consequence, there is an inherented subjectivity in the method which many people see as problematic.   
+> Can you spot a similar subjectivity in the frequentist approach?
