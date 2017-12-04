@@ -39,7 +39,7 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 
 ## Day 4 - Approximate Bayesian Computation
 
-*“Essentially, all models are wrong, but some are useful.”*
+*“Essentially, all models are wrong, but some are useful.”*  
  G. E. P. Box and N. R. Draper, Response Surfaces, Mixtures, and Ridge Analyses (2007)
 
 > Importance Sampling  
