@@ -118,7 +118,8 @@ y_axis = norm.pdf(x_axis, loc=mean_posterior, scale=std_posterior)
 
 plt.figure()
 plt.hist(chain[burn_in:], normed=True, alpha=0.5)
-plt.plot(x_axis, y_axis, color='red', lw=2.0)
+plt.plot(x_axis, y_axis, color='red', lw=2.0, label='posterior')
+plt.legend()
 plt.xlabel('mu')
 plt.ylabel('PDF')
 plt.show()
@@ -158,15 +159,17 @@ mu_current = a_current * x + b_current
 proposal_width = 0.25
 
 # number of samples to accept
-n_samples = 50000
+n_samples = 10000
 
 # determine prior parameters
-# here we consider gaussian priors
-a_prior_mean = 1 
-a_prior_std = 0.5
+# here we consider uniform priors
+# we did this because this simple example is not optimized
+# in real situations you should avoid hard priors
+a_prior_min = 0
+a_prior_gap = 10
 
-b_prior_mean = 0 
-b_prior_std = 0.5
+b_prior_min = -4
+b_prior_gap = 10
 
 # store chain
 chain = []
@@ -185,9 +188,9 @@ while len(chain) < n_samples:
     likelihood_proposal = norm(mu_proposal, std).pdf(y).prod()
 
     # Compute prior probability of current and proposed mu        
-    prior_current = norm(a_prior_mean, a_prior_std).pdf(a_current) * \
-                    norm(b_prior_mean, b_prior_std).pdf(b_current)
-    prior_proposal = norm(a_prior_mean, a_prior_std).pdf(a_proposal) * \
+    prior_current = uniform(loc=a_prior_min, scale=a_prior_gap).pdf(a_current) * \
+                    uniform(loc=b_prior_min, scale=b_prior_gap).pdf(b_current)
+    prior_proposal = uniform(loc=a_prior_min, scale=a_prior_gap).pdf(a_proposal) * \
                      norm(b_prior_mean, b_prior_std).pdf(b_proposal)
 
     # Nominator of Bayes formula
