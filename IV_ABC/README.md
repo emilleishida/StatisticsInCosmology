@@ -12,6 +12,6 @@ Once the CosmoABC is installed, you will need the following files
 
 This will allow you to run the code in the command line. 
 
-If you wish, you can also use the script shown [here](https://github.com/emilleishida/StatisticsInCosmology/blob/master/IV_ABC/cosmoabc_script.py) in order to use the functionalities of cosmoabc in  environments like SAP.
+For development purpouse, it is perhaps easit to use the script shown [here](https://github.com/emilleishida/StatisticsInCosmology/blob/master/IV_ABC/cosmoabc_script.py) in order to use the functionalities of CosmoABC in environments like [iPython](https://ipython.org/install.html).
 
 
