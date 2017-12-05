@@ -1,4 +1,4 @@
-# References
+# References: Frequentist and Bayesian Statistics
 
 This is a (far from complete) summary of useful references in Bayesian and Frequentist statistics, and the historical roles each other have played in the construction of our notion of probability. 
 
