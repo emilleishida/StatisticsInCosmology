@@ -52,10 +52,25 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 
 #### Bayesian and Frequentist statistics
      
-> Q1: One of the main arguments against Bayesian analysis is that the theory does not provide a recipe on how to calculate priors. As a consequence, there is an inherented subjectivity in the method which many people see as problematic. Can you spot a similar subjectivity in the frequentist approach?
+> Q1: One of the main arguments against Bayesian analysis is that the theory does not provide a recipe on how to calculate priors. As a consequence, there is an inherented subjectivity in the method which many people see as problematic. In your view, does frequentist approach carry similar subjectivity?
 
 #### Application
 
-> Q2: Suppose that 60% of the stellar systems in a galaxy far,  far away host an Earth-like planet. Let us also assume that every system that hosts an Earth-like planet also hosts a Jupiter-like planet, while only half of the systems who fail to host Earth-like planets host Jupiter-like planets. Now, let us suppose that, as we are perusing stellar systems in a Galaxy, we observe a system with a Jupiter-like planet. What is the probability that this system also hosts an Earth-like planet? 
+> Q2: Suppose that 60% of the stellar systems in a galaxy far,  far away host an Earth-like planet. Let us also assume that every system that hosts an Earth-like planet also hosts a Jupiter-like planet, while only half of the systems who fail to host Earth-like planets host Jupiter-like planets. Now, let us suppose that we observe a system with a Jupiter-like planet. What is the probability that this system also hosts an Earth-like planet? 
+
+#### Errors in Bayesian modelling
+
+> I show [here](https://github.com/emilleishida/StatisticsInCosmology/blob/master/sncosmology.R) I direct implementation of Bayesian inference in the case of supernova cosmology. The code is written in [R](https://www.r-project.org/) using [Stan](http://mc-stan.org/).  
+> Q3: what are the assumptionsunderlying this particular construction of the statistical model? Are they realistic?  
+> Q4: What modifications do you suggest if one wishes to take into account the errors in the observed quantities?
+
+
+## Final remarks
+
+If you have any questions/suggestions regarding this material, contact [me](https://emilleishida.com).
+
+This repository will suffer major updates before the start of the winter school, so it is advisable that you keep it up to date in the last possible version before the start of that week.
+
+
 
 
