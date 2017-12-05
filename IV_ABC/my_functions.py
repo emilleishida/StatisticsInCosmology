@@ -36,34 +36,39 @@ def my_simulation(v):
     dist = norm(loc=v['mean'],
                 scale=v['std'])
 
-    l1 = dist.rvs(size=v['n'])
+    l1 = dist.rvs(size=int(v['n']))
 
     return np.atleast_2d(l1).T
 
 
 def my_prior(par, func=False):
     """
-    Flat prior.
-    If func=False returns a random number beteween 
-    par[0] and par[1]. 
-
-    Otherwise, returns the corresponding uniform 
-    distribution function. 
-
-    input: par -> dictionary of input parameters
-    
+    Gaussian prior.
+  
+    input: par -> dictionary of parameter values
+                  keywords: mean, std, 
+                            min and max
+                  values: all scalars 
+           func -> boolean (optional)
+                   if True returns the pdf random variable. 
+                   Default is False.
     output: scalar (if func=False)
-            uniform function (if func=True)
+            gaussian probability distribution function (if func=True)
     """
 
-    gap = par['max'] - par['min']
-    pdf = uniform(loc=par['min'], scale=gap)
+    np.random.seed()    
+    dist = norm(loc=par['pmean'], scale=par['pstd'])
 
-    if func == False :
-        draw = pdf.rvs()
+    flag = False  
+    while flag == False:   
+        draw = dist.rvs() 
+        if par['min'] < draw and draw < par['max']:
+            flag = True
+     
+    if func == False:
         return draw
     else:
-        return pdf
+        return dist
 
 def my_distance(d2, p):
     """
