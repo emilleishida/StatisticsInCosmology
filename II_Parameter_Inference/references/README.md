@@ -8,13 +8,14 @@
 ## Parameter inference in Cosmology
 
 - [Hobson, M. P., et al, 2009](http://www.cambridge.org/fr/academic/subjects/physics/cosmology-relativity-and-gravitation/bayesian-methods-cosmology?format=HB&isbn=9780521887946) - *Bayesian Methods in Cosmology*  
- - []
 
 
 ## Other pedagogical material
 
 - [VanderPlas, J., 2016](https://github.com/jakevdp/BayesianAstronomy) - *GitHub repository: Bayesian Methods in Astronomy*   
+- [Wiecki, T., 2015](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/) - *MCMC sampling for dummies*  
 - [Feng, C., 2016](http://chi-feng.github.io/mcmc-demo/) - *The Markov-chain Monte Carlo Interactive Gallery*  
+
 
 ## Video Lectures
 
