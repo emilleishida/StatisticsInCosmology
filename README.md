@@ -51,7 +51,7 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 
 ## Final remarks
 
-If you have any questions/suggestions regarding this material, contact [me](https://emilleishida.com).
+If you have any questions/suggestions regarding this material, contact [me](emilleishida@gmail.com).
 
 This repository will suffer major updates before the start of the winter school, so it is advisable that you keep it up to date in the last possible version before the start of that week.
 
