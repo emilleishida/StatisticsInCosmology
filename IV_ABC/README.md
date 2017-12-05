@@ -16,5 +16,7 @@ For development purpouse, it is perhaps easier to use the script shown [here](ht
 
 > This example contains a very simple straight line fit, but you can easily adapt it to more complex situations by customizing the files mentioned above. 
 
-This material was first presented in [Ishida et al., 2015](https://arxiv.org/abs/1504.06129),  is one of the products of the [Cosmostatistics Initiative (COIN)](http://cointoolbox.github.io/) developed during [COIN Residence Program #1](https://asaip.psu.edu/organizations/iaa/iaa-working-group-of-cosmostatistics/iaa-2013-working-group-on-cosmostatistics-summer-residence-program-2013-2014-2013-lisbon), August/2014 - Lisbon, Portugal.
+This material was first presented in [Ishida et al., 2015](https://arxiv.org/abs/1504.06129).  
+
+It is one of the products of the [Cosmostatistics Initiative (COIN)](http://cointoolbox.github.io/) developed during [COIN Residence Program #1](https://asaip.psu.edu/organizations/iaa/iaa-working-group-of-cosmostatistics/iaa-2013-working-group-on-cosmostatistics-summer-residence-program-2013-2014-2013-lisbon), August/2014 - Lisbon, Portugal.
 
