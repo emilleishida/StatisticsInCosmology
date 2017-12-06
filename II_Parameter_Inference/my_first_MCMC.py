@@ -134,7 +134,7 @@ plt.show()
 # define fiducial parameters
 true_a = 3.0
 true_b = 5.0
-std = 0.25
+std = 0.1
 n = 15
 
 # generate exploratory random variable within [-1, 1]
@@ -151,8 +151,8 @@ plt.scatter(x, y, s=20)
 plt.show()
 
 # set starting point
-a_current = 4.75
-b_current = 3.25
+a_current = 3.15
+b_current = 4.75
 mu_current = a_current * x + b_current
 
 # proposal size of step for random walk
@@ -165,15 +165,13 @@ n_samples = 10000
 # here we consider uniform priors
 # we did this because this simple example is not optimized
 # in real situations you should avoid hard priors
-prior_mean = [3.0, 5.0]
-prior_std = [1.0, 1.0]
+prior_mean = [3.5, 5.5]
+prior_std = [0.25, 0.25]
 
 # store chain
 chain = []
 
 while len(chain) < n_samples:
-
-    print str(len(chain)) + '  samples'
 
     # propose a new point
     a_proposal, b_proposal = multivariate_normal.rvs(mean=[a_current, b_current], cov=proposal_width)
@@ -203,6 +201,8 @@ while len(chain) < n_samples:
         # Update position
         a_current = a_proposal
         b_current = b_proposal
+
+        print str(len(chain)) + '  samples'
 
 
 # convert chain into array
