@@ -13,6 +13,7 @@ L. Carroll, Alice in Wonderland (1865)
 
 > Discussions on Frequentists and Bayesian statistics  
     
+[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/I_Frequentist_vs_Bayesian/StatisticsInCosmology_day1.pdf)
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/I_Frequentist_vs_Bayesian/references)  
 
 ## Day 2 - Parameter Inference  
