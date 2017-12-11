@@ -10,6 +10,14 @@
 - [Hobson, M. P., et al, 2009](http://www.cambridge.org/fr/academic/subjects/physics/cosmology-relativity-and-gravitation/bayesian-methods-cosmology?format=HB&isbn=9780521887946) - *Bayesian Methods in Cosmology*  
 
 
+# Fitting a straight line
+
+- [Gull, S.F., 1989](http://bayes.wustl.edu/sfg/line.pdf) - *Bayesian data analysis: straight line fitting*   
+- [Isobe T. et al., 1990](http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990ApJ...364..104I&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf) - *Linear regression in astronomy. I.*  
+- [Andrae, R. et al., 2010](https://arxiv.org/pdf/1012.3754.pdf) - *Dos and don’ts of reduced chi-squared*  
+- [Hogg, D. W. et al., 2010](https://arxiv.org/abs/1008.4686) - *Data analysis recipes: Fitting a model to data*  
+
+
 ## Other pedagogical material
 
 - [VanderPlas, J., 2016](https://github.com/jakevdp/BayesianAstronomy) - *GitHub repository: Bayesian Methods in Astronomy*   
