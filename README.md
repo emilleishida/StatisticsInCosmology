@@ -24,6 +24,7 @@ J. Gleick, The Information: A History, a Theory, a Flood (2011)
 > Maximum Likelihood estimators  
 > Monte Carlo Markov Chain methods  
 
+[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/StatisticsInCosmology_day2.pdf)  
 [Examples](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/references)
 
