@@ -25,10 +25,9 @@ J. Gleick, The Information: A History, a Theory, a Flood (2011)
 > Monte Carlo Markov Chain methods  
 
 [Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/StatisticsInCosmology_day2.pdf)  
-[Example - my_mcmc](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/my_first_mcmc.py)  
+[Example - my_mcmc](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/my_first_MCMC.py)  
 [Example - Stan](https://github.com/astrobayes/BMAD/blob/master/chapter_4/code_4.3.py)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/references)
-
 ## Day 3 - Model Selection
 
 *“Crying is all right in its way while it lasts. But you have to stop sooner or later, and then you still have to decide what to do.”*  
