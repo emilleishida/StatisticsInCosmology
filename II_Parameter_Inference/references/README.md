@@ -8,6 +8,7 @@
 ## Parameter inference in Cosmology
 
 - [Hobson, M. P., et al, 2009](http://www.cambridge.org/fr/academic/subjects/physics/cosmology-relativity-and-gravitation/bayesian-methods-cosmology?format=HB&isbn=9780521887946) - *Bayesian Methods in Cosmology*  
+-[Tak, H. et al., 2017](https://arxiv.org/pdf/1712.03549v1.pdf) - *How proper are Bayesian models in the astronomical literature?*  
 
 
 ## Fitting a straight line
