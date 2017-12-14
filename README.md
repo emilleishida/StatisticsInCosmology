@@ -28,6 +28,8 @@ J. Gleick, The Information: A History, a Theory, a Flood (2011)
 [Example - my_mcmc](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/my_first_MCMC.py)  
 [Example - Stan](https://github.com/astrobayes/BMAD/blob/master/chapter_4/code_4.3.py)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/references)
+
+
 ## Day 3 - Model Selection
 
 *“Crying is all right in its way while it lasts. But you have to stop sooner or later, and then you still have to decide what to do.”*  
@@ -37,7 +39,8 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 > Cross-validation  
 > Bayesian evidence  
  
-[References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/III_Model_Selection/references)
+[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/III_Model_Selection/StatisticsInCosmology_day3.pdf)  
+[References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/III_Model_Selection)
 
 ## Day 4 - Approximate Bayesian Computation
 
