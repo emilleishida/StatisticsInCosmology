@@ -50,6 +50,7 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 > Importance Sampling  
 > Likelihood-free parameter inference  
  
+[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC/StatisticsInCosmology_day4.pdf)  
 [Examples](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC/references)
 
