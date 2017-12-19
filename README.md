@@ -65,7 +65,6 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 
 > Q2: Suppose that 60% of the stellar systems in a galaxy far,  far away host an Earth-like planet. Let us also assume that every system that hosts an Earth-like planet also hosts a Jupiter-like planet, while only half of the systems who fail to host Earth-like planets host Jupiter-like planets. Now, let us suppose that we observe a system with a Jupiter-like planet. What is the probability that this system also hosts an Earth-like planet?*   
 
-*This example was taken from [Bayesian Models for Astrophysical Data - using R, JAGS, Python and Stan](www.bayesianmodelsforastrophysicaldata.com), by Hilbe, de Souza and Ishida, 2017, Cambridge University Press  
 
 #### Errors in Bayesian modelling
 
@@ -76,4 +75,6 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 [Normal linear model in Python using Stan](https://github.com/astrobayes/BMAD/blob/master/chapter_4/code_4.3.py)  
 [Normal linear model in Python using Stan considering measurement errors](https://github.com/astrobayes/BMAD/blob/master/chapter_4/code_4.11.py)
 
+
+*This example was taken from [Bayesian Models for Astrophysical Data - using R, JAGS, Python and Stan](www.bayesianmodelsforastrophysicaldata.com), by Hilbe, de Souza and Ishida, 2017, Cambridge University Press  
 
