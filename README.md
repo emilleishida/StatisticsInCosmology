@@ -68,7 +68,7 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 
 #### Errors in Bayesian modelling
 
-> I show [here](https://github.com/emilleishida/StatisticsInCosmology/blob/master/sncosmology.R) I direct implementation of Bayesian inference in the case of supernova cosmology. The code is written in [R](https://www.r-project.org/) using [Stan](http://mc-stan.org/).  
+> I show [here](https://github.com/emilleishida/StatisticsInCosmology/blob/master/sncosmology.R) a direct implementation of Bayesian inference in the case of supernova cosmology*. The code is written in [R](https://www.r-project.org/) using [Stan](http://mc-stan.org/).  
 > Q3: what are the assumptions underlying this particular construction of the statistical model? Are they realistic?  
 > Q4: What modifications do you suggest if one wishes to take into account the errors in the observed quantities?  
 
