@@ -13,7 +13,7 @@ L. Carroll, Alice in Wonderland (1865)
 
 > Discussions on Frequentists and Bayesian statistics  
     
-[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/I_Frequentist_vs_Bayesian/StatisticsInCosmology_day1.pdf)  
+[Slides](https://www.dropbox.com/s/bkrqy5vebp008tl/StatisticsInCosmology_day1.pdf?dl=0)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/I_Frequentist_vs_Bayesian/references)  
 
 ## Day 2 - Parameter Inference  
@@ -24,7 +24,7 @@ J. Gleick, The Information: A History, a Theory, a Flood (2011)
 > Maximum Likelihood estimators  
 > Monte Carlo Markov Chain methods  
 
-[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/StatisticsInCosmology_day2.pdf)  
+[Slides](https://www.dropbox.com/s/rakm8mrla16oqcs/StatisticsInCosmology_day2.pdf?dl=0)  
 [Example - my_mcmc](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/my_first_MCMC.py)  
 [Example - Stan](https://github.com/astrobayes/BMAD/blob/master/chapter_4/code_4.3.py)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/II_Parameter_Inference/references)
@@ -39,7 +39,7 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 > Cross-validation  
 > Bayesian evidence  
  
-[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/III_Model_Selection/StatisticsInCosmology_day3.pdf)  
+[Slides](https://www.dropbox.com/s/3tjpuj0wx3xannk/StatisticsInCosmology_day3.pdf?dl=0)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/III_Model_Selection)
 
 ## Day 4 - Approximate Bayesian Computation
@@ -50,7 +50,7 @@ C.S. Lewis - The Silver Chair (Chronicles of Narnia, #4, 1953)
 > Importance Sampling  
 > Likelihood-free parameter inference  
  
-[Slides](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC/StatisticsInCosmology_day4.pdf)  
+[Slides](https://www.dropbox.com/s/fw72h7y78770min/StatisticsInCosmology_day4.pdf?dl=0)  
 [Examples](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC)  
 [References](https://github.com/emilleishida/StatisticsInCosmology/tree/master/IV_ABC/references)
 
